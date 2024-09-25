@@ -14,3 +14,5 @@ API Integration:
 The software can be accessed or integrated with any other software using its API. For demonstration purposes, we are providing an integration with Tally through a TDL (Tally Definition Language) file.
 
 Feel free to download and test the application. We welcome any feedback or contributions!
+![image](https://github.com/user-attachments/assets/49cf893b-dfed-4e73-b1b8-23aea1574c19)
+
