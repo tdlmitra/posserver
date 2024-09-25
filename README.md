@@ -1,7 +1,7 @@
 # posserver
 To use PC as http server and can be accessible within intrAnet or internet 
 
-#Software Name
+
 Welcome to the Software Name repository! This is a Windows desktop application designed to run in three different configurations: Local, LAN, and WAN, offering flexible deployment based on your needs.
 
 Available Flavors:
